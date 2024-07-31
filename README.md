@@ -1,4 +1,12 @@
-
+---
+title: RASABOT 
+emoji: 😄
+colorFrom: blue
+colorTo: red
+sdk: docker
+app_file: app.py
+pinned: false
+---
 ![RasaGPT Logo](https://github.com/paulpierre/RasaGPT/blob/main/github/rasagpt-banner.png?raw=true)
 
 <br/><br/>
